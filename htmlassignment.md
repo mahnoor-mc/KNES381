@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">H3 that is center aligned</h1>
+<center> <h1>I want to make it centred</h1> </center>
 
 <p> is the header centered? </p>
 
