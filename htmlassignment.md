@@ -6,7 +6,4 @@
 
 <p align="left"> ${\color{red} This \space is \space some \space red \space text.}$ </p>
 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
+<a href=readme.md> Please see this readme.md file. </a>
