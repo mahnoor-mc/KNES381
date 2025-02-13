@@ -6,4 +6,4 @@
 
 <p align="left"> ${\color{red} This \space is \space some \space red \space text.}$ </p>
 
-<a href=readme.md> Please see this readme.md file. </a>
+<a href=eggs.md> Please look at these eggs. </a>
