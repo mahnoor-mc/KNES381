@@ -7,6 +7,6 @@
 <p align="left"> Running is a great way to improve your $\dot VO$<sub>2</sub> max. V&#775;O<sub>2</sub> max is the maximum rate of oxygen consumption during physical activity. I also know how to write $\dot {\text{VO}}$<sub>2</sub> max like this. </p>
 
 
-<a href=eggs.md> Take a look at these eggs. </a>
+<a href=eggs/eggs.md> Take a look at these eggs. </a>
 
 
